@@ -1,0 +1,1 @@
+The JupyterNotebook FinalProject.ipynb contains the codes for the project. In order to run the notebook, please download "reviews_0-250.csv" from: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data?select=reviews_0-250.csv .
